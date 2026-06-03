@@ -1,24 +1,22 @@
-# week9_cooking_catalogue# Cooking Masterclass Catalogue - Week 9 Exercise 01
+# Cooking Masterclass Catalogue
 
-## Description
-Vue3 responsive app for Cooking Masterclass. Displays cooking courses with save functionality.
+**Trainee:** Simamkele Daweti  
+**Programme:** YouthCode CFF-Site - Cohort 2, 2025  
+**Course:** Course 1 - Frontend Web Development  
+**Topic:** Vue.js Week 9 Exercise 01
 
-## Submitter Details
-**Student Name**: Simamkele Deweti  
-**Student Number**: TBC  
-**Module**: Vue JS Fundamentals
+## Project Description
+This repository contains my Vue.js Cooking Masterclass Catalogue application for Week 9 Exercise 01. The app displays a catalogue of cooking courses where users can browse courses, view chef details, prices and difficulty levels. Users can save courses to their list and sold out courses are clearly marked. The application demonstrates Vue.js data binding, v-for loops, v-if conditional rendering, and component structure.
 
-## Features completed
-- Course catalogue with v-for
-- Course details + "Sold Out" badge with v-if
-- Save button with @click event
-- Saved courses counter in header
-- Responsive layout
+## Features
+- Display cooking courses in a responsive grid
+- Show course details: title, chef, price, level
+- "Sold Out" badge for unavailable courses  
+- Save courses functionality with counter
+- Mobile responsive design
 
-## How to run
-1. npm install
-2. npm run dev
-3. Open http://localhost:5173
-
-## Comment for Lecturer
-Student number not issued yet. Using name for identification.
+## How to Run
+1. Clone repository
+2. Run `npm install`
+3. Run `npm run dev`
+4. Open browser at shown localhost URL
